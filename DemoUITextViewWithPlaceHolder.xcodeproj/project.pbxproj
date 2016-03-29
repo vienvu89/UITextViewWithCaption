@@ -12,6 +12,7 @@
 		FBD1C9221CAADB77008CA539 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FBD1C9201CAADB77008CA539 /* Main.storyboard */; };
 		FBD1C9241CAADB77008CA539 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FBD1C9231CAADB77008CA539 /* Assets.xcassets */; };
 		FBD1C9271CAADB77008CA539 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FBD1C9251CAADB77008CA539 /* LaunchScreen.storyboard */; };
+		FBD1C9301CAADBFF008CA539 /* UITextViewWithPlaceHolder.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBD1C92F1CAADBFF008CA539 /* UITextViewWithPlaceHolder.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FBD1C9231CAADB77008CA539 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FBD1C9261CAADB77008CA539 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FBD1C9281CAADB77008CA539 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FBD1C92F1CAADBFF008CA539 /* UITextViewWithPlaceHolder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UITextViewWithPlaceHolder.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +40,7 @@
 		FBD1C9101CAADB77008CA539 = {
 			isa = PBXGroup;
 			children = (
+				FBD1C92E1CAADBC4008CA539 /* UITextViewWithPlaceholder */,
 				FBD1C91B1CAADB77008CA539 /* DemoUITextViewWithPlaceHolder */,
 				FBD1C91A1CAADB77008CA539 /* Products */,
 			);
@@ -62,6 +65,14 @@
 				FBD1C9281CAADB77008CA539 /* Info.plist */,
 			);
 			path = DemoUITextViewWithPlaceHolder;
+			sourceTree = "<group>";
+		};
+		FBD1C92E1CAADBC4008CA539 /* UITextViewWithPlaceholder */ = {
+			isa = PBXGroup;
+			children = (
+				FBD1C92F1CAADBFF008CA539 /* UITextViewWithPlaceHolder.swift */,
+			);
+			path = UITextViewWithPlaceholder;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,6 +148,7 @@
 			files = (
 				FBD1C91F1CAADB77008CA539 /* ViewController.swift in Sources */,
 				FBD1C91D1CAADB77008CA539 /* AppDelegate.swift in Sources */,
+				FBD1C9301CAADBFF008CA539 /* UITextViewWithPlaceHolder.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,6 +298,7 @@
 				FBD1C92D1CAADB77008CA539 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
