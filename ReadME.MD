@@ -7,8 +7,12 @@ A Simple subclass UITextView allow add place holder. Subclass support designable
 
 ## Usage
 
-Drag UITextViewWithPlaceHolder to your project and set Class to UITextViewWithPlaceHolder. Config your place holder.
+Drag UITextViewWithPlaceHolder to your project and set Class to UITextViewWithPlaceHolder.
+![alt tag](https://raw.githubusercontent.com/vienvu89/UITextViewWithCaption/master/Screen%20Shot%202016-03-30%20at%2012.18.39%20AM.png)
 
+
+Config your place holder:
+![alt tag](https://raw.githubusercontent.com/vienvu89/UITextViewWithCaption/master/Screen%20Shot%202016-03-30%20at%2012.18.46%20AM.png)
 
 
 
