@@ -12,7 +12,7 @@ Drag UITextViewWithPlaceHolder to your project and set Class to UITextViewWithPl
 
 
 Config your place holder:
-![alt tag](https://raw.githubusercontent.com/vienvu89/UITextViewWithCaption/master/Screen%20Shot%202016-03-30%20at%2012.18.46%20AM.png)
+![alt tag](https://raw.githubusercontent.com/vienvu89/UITextViewWithPlaceholder/master/Screen%20Shot%202016-03-30%20at%2012.18.46%20AM.png)
 
 
 
